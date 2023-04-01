@@ -34,7 +34,7 @@ public class ReverseString_344 {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         char[] input = new char[] {'h', 'e', 'l', 'l', 'o'};
         reverseString1(input);
     }
